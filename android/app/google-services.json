@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "982319503453",
+    "project_id": "request-live-ba5e8",
+    "storage_bucket": "request-live-ba5e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982319503453:android:352e563fdcd607ff3095b4",
+        "android_client_info": {
+          "package_name": "com.derekdileo.request_live_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982319503453-472pr8jej2f2mlslmak2lom2spbp3pc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5RAetzRc242FZFnO54xYWCO_vWBns9Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982319503453-472pr8jej2f2mlslmak2lom2spbp3pc7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982319503453-5mfkpili247ej7p5d4rm322vcbqdrf9l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.derekdileo.requestliveflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
